@@ -1,0 +1,82 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverages
+lib-cov
+coverage
+*.lcov
+.nyc_output
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Dependency directories
+bower_components
+node_modules/
+jspm_packages/
+
+*.tsbuildinfo
+.npm
+
+.eslintcache
+.stylelintcache
+
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# dotenv environment variable files
+.env
+.env.*.local
+.env.local
+
+# cache, build, bundle
+.grunt
+.cache
+.cache/
+.*-cache
+.*-cache/
+
+build/Release
+.lock-wscript
+
+.next
+.nuxt
+dist
+dist-ssr
+.vscode-test
+.node_repl_history
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

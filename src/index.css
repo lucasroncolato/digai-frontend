@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'tailwindcss/variants';
+
+
+body {
+  color: rgb(239, 246, 255);
+  background: linear-gradient(223.53deg, #111C9D 2.44%, #50A99A 100%);
+}
