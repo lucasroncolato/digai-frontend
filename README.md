@@ -8,7 +8,7 @@ Desafio para entrar na Digaí: Criar uma interface com a pergunta, gravação e 
 # cd ~/MY_PROJECTS_FOLDER_PATH
 
 # clonar o repositório
-git clone "git@github.com:lucasroncolato/digai-frontend.git";
+git clone "https://github.com/lucasroncolato/digai-frontend.git";
 
 # mudar para o diretório criado
 cd digai-frontend;
